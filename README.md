@@ -36,6 +36,8 @@ The main specifications of the application are:
 - Create a set of schools, using a TreeSet implementation. Make sure that School objects are comparable.
 - Create two maps (having different implementations) describing the students and the school preferences and print them on the screen.
 
+I have solved everything in compulsory.
+
 ## Optional
 
 - Create a class that describes the problem and one that describes a solution (a matching) to this problem.
